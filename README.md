@@ -1,4 +1,3 @@
-- Hi, I’m @icecookies1017
-- I’m interested in coding and gaming
-- I’m currently learning how to make a APP by BeeWare
+# Hi, I'm icecookies1017 
 
+I'm a beginner in cybersecurity , eager to learn and grow.
